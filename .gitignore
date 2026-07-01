@@ -1,0 +1,23 @@
+# Data (downloaded by the notebook on first run)
+*.txt
+*.zip
+*.csv
+household_power_consumption*
+tetuan_power_raw.csv
+
+# Notebook outputs
+results/
+*.pkl
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
