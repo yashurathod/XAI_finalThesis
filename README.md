@@ -1,3 +1,14 @@
+```
+ID: 125101100
+Name: Yashodhar Shanker Rathod
+
+===============================================================
+Project title: Explainable Household Electricity Demand
+               Forecasting via a Convex-Blend Temporal
+               Stacking Ensemble
+===============================================================
+```
+
 # XAI for Household Electricity Demand Forecasting
 
 MSc thesis project. Short-term forecasting of household electricity demand,
