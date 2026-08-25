@@ -10,6 +10,17 @@ results/
 *.pkl
 .ipynb_checkpoints/
 
+# LaTeX build artifacts
+*.aux
+*.bcf
+*.log
+*.out
+*.run.xml
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
 # Python
 __pycache__/
 *.py[cod]
